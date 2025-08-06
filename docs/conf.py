@@ -4,6 +4,6 @@ html_theme = "furo"
 
 html_static_path = ["_static"]
 
-html_title = "Pomice"
+html_title = "lumify"
 
 language = "ru"
