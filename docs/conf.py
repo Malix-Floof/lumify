@@ -3,7 +3,6 @@ project = "lumify"
 extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
-    "sphinx.ext.linkcode",
     "myst_parser",
 ]
 
