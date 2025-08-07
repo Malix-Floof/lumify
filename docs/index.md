@@ -1,6 +1,7 @@
 # Заголовок
 
 ```{toctree}
+:caption: Введение
 :hidden:
 installation
 ```
